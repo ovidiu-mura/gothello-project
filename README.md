@@ -38,6 +38,16 @@ The following resources are provided:
 * [Grossthello](http://github.com/pdx-cs-ai/gothello-grossthello),
   a really simple Gothello player.
 
+* Scripts for collecting position evaluation [data](data/)
+  for machine-learning purposes. See the
+  [README](data/README.md) for details. You can find more
+  than a million depth-3 stone-count negamax evaluated
+  positions from Grossthello games at
+  http://svcs.cs.pdx.edu/tarballs/ in a variety of
+  formats. Please do not grab the ZIP unless you can read
+  none of the compressed tar formats, as it is 5-10× larger
+  than the others.
+
 ## How To Try It Out
 
 Check out the source repos for Gthd and Grossthello
